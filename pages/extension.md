@@ -1,5 +1,5 @@
 ---
-title: Publications
-nav: Publications
-nav_order: 7
+title: Extension & Outreach
+nav: Extension
+nav_order: 3
 ---

@@ -1,6 +1,21 @@
 ---
 title: Academic Portfolio Template
 ---
+# About Me
+This is a paragraph about me.
+
+## Bio
+
+## Classes
+
+## Projects
+
+
+
+
+
+
+
 
 Write pages in Markdown.
 
